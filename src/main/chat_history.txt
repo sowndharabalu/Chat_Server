@@ -1,0 +1,7 @@
+SERVER|SYSTEM|15:35:35 pm|balu has joined the chat.
+SERVER|SYSTEM|15:35:52 pm|kimi has joined the chat.
+kimi|BROADCAST|15:35:58 pm|hello
+balu|BROADCAST|15:37:14 pm|\list
+SERVER|SYSTEM|15:37:27 pm|niko has joined the chat.
+niko|PRIVATE|15:37:45 pm|hi
+SERVER|SYSTEM|15:38:10 pm|kimi has left the chat.
